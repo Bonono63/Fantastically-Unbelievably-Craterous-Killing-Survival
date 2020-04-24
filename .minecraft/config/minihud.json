@@ -188,7 +188,7 @@
     "infoEntitiesClientWorld": false,
     "infoEntityRegistryName": false,
     "infoFacing": true,
-    "infoFPS": false,
+    "infoFPS": true,
     "infoLightLevel": false,
     "infoLookingAtBlock": false,
     "infoLookingAtBlockInChunk": false,
