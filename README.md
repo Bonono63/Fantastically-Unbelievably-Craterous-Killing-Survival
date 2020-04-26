@@ -1,2 +1,2 @@
-# Fantastically-Unremarkably-Craterous-Killing-Survival
+# Fantastically-Unbelievably-Craterous-Killing-Survival
 hardcore modpack for fabric
