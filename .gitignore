@@ -17,6 +17,10 @@ natives
 .minecraft/server-resource-packs
 .minecraft/options.txt
 .minecraft/realms_persistance.json
+.minecraft/crash-reports/*
+.minecraft/config/NetherTeleports/players/*.json
+.minecraft/shaderpacks/*.zip
+*.zip
 
 
 # Executables

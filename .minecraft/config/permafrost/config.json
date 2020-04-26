@@ -1,0 +1,6 @@
+{
+	"snowLayerMelting": true,
+	"snowLayerFormingInLight": true,
+	"iceMelting": false,
+	"iceFormingInLight": true
+}
