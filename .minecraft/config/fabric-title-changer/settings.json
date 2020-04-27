@@ -14,11 +14,10 @@
     },
     "overrideMinecraftTitle": {
       "comment": "Set to change the phrase \"Minecraft\" in the title.",
-	  "value": ""
+      "value": "Fantastically Unbelievably Craterous Killing Survival"
     },
     "overrideFullTitle": {
-      "comment": "Set to ignore other settings and define a full pre-defined name.",
-	  "value": false
+      "comment": "Set to ignore other settings and define a full pre-defined name."
     }
   }
 }

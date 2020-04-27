@@ -1,8 +1,8 @@
 {
 	"customEditionEnabled": false,
-	"customEdition": "",
+	"customEdition": "Fantastically Unbelievably Craterous Killing Survival",
 	"customSplashEnabled": false,
-	"removeSplash": false,
+	"removeSplash": true,
 	"customSplash": [],
-	"removeMinecraftLogo": false
+	"removeMinecraftLogo": true
 }
