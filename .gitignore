@@ -33,3 +33,17 @@ natives
 # should NOT be excluded as they contain compiler settings and other important
 # information for Eclipse / Flash Builder.
 .minecraft/usercache.json
+.minecraft/.optifine/OptiFine_1.15.2_HD_U_G1_pre13/Optifine-mapped.jar
+.minecraft/.optifine/OptiFine_1.15.2_HD_U_G1_pre13/Optifine.classes
+.minecraft/servers.dat
+.minecraft/realms_persistence.json
+.minecraft/patchouli_data.json
+.minecraft/optionsshaders.txt
+.minecraft/optionsof.txt
+.minecraft/optifabric.txt
+.minecraft/mods/torohealth-1.15.1-fabric-1.jar.disabled
+.minecraft/mods/torohealth-1.15.1-fabric-1.jar.disabled
+.minecraft/mods/preview_OptiFine_1.15.2_HD_U_G1_pre13.jar
+.minecraft/mods/Patchouli-1.15.2-1.2-31.jar
+.minecraft/mods/Patchouli-1.15.2-1.2-31.jar
+.minecraft/config/minihud/192.168.1.66.json
