@@ -1,0 +1,6 @@
+{ 
+	// Whether immersive torches should replace normal torches on worldgen.
+	"replaceTorchesOnGen": true,
+	// Whether the immersive torches generated should start lit or not.
+	"startLitOnGen": true
+}

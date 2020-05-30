@@ -16,5 +16,5 @@
 	// Enables the ability to toggle zooming.
 	"zoomToggle": false,
 	// Allows to increase or decrease zoom by scrolling.
-	"zoomScrolling": false
+	"zoomScrolling": true
 }

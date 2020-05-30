@@ -1,0 +1,6 @@
+{ 
+	// How much durability the flint and tinder item has. Min: 1, Max: 64, Default: 16
+	"flint_tinder_durability": 16,
+	// How much durability the bow drill item has. Min: 1, Max: 128, Default: 32
+	"bowDrill_durability": 32
+}

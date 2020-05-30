@@ -2,17 +2,17 @@
   "0000": {
     "key": "0000",
     "toolTip": "autoJump state on this server",
-    "value": 1.0,
-    "defaultValue": 1.0,
-    "minValue": 0.0,
-    "maxValue": 2.0
-  },
-  "192168166": {
-    "key": "192168166",
-    "toolTip": "autoJump state on this server",
     "value": 1,
     "defaultValue": 0,
     "minValue": 0,
     "maxValue": 2
+  },
+  "192168166": {
+    "key": "192168166",
+    "toolTip": "autoJump state on this server",
+    "value": 1.0,
+    "defaultValue": 0.0,
+    "minValue": 0.0,
+    "maxValue": 2.0
   }
 }

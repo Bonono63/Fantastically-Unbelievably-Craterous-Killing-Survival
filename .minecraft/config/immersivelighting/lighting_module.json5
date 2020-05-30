@@ -1,0 +1,10 @@
+{ 
+	// The chance, every random tick, that a torch will dim and shed one less light level. Min: 0.01, Max: 1, Default: 0.25
+	"torch_chanceToDim": 0.25,
+	// If set to true, will allow the player to relight torches that are in the middle of burning. If set to false, torches must burn out before lighting again.
+	"torch_relightAllowed": false,
+	// How many times maximum it can take for a flint and tinder to light a torch. Min: 1, Max: 16, Default: 8
+	"torch_flintTinderMaxStrikes": 8,
+	// How many times maximum it can take for the bow drill to light a torch. Min: 1, Max: 8, Default: 4
+	"torch_bowDrillMaxStrikes": 4
+}

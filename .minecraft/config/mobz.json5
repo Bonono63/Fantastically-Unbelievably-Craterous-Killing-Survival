@@ -26,6 +26,7 @@
 	"LavaGolemSpawn": true,
 	"LordofDarknessSpawn": true,
 	"LostSkeletonSpawn": true,
+	"MetalGolemSpawn": true,
 	"NetherSkeletonSpawn": true,
 	"NetherWolfSpawn": true,
 	"OvergrownSkeletonSpawn": true,
@@ -65,6 +66,7 @@
 	"LavaGolemLife": 48.0,
 	"LordofDarknessLife": 72.0,
 	"LostSkeletonLife": 20.0,
+	"MetalGolemLife": 160.0,
 	"NetherSkeletonLife": 28.0,
 	"NetherWolfLife": 20.0,
 	"OvergrownSkeletonLife": 26.0,
@@ -82,6 +84,12 @@
 	"WithenderLife": 400.0,
 	"WitherBlazeLife": 26.0,
 	"ZombieMageLife": 28.0,
+	"KingCharlesLife": 120.0,
+	"WilliamLife": 60.0,
+	"AndriuLife": 60.0,
+	"IslandKnightLife": 26.0,
+	"DeathSpiritLife": 16.0,
+	"BabyRavagerLife": 40.0,
 	// Be carefull with this setting! Multiplicator must be > 0!
 	"LifeMultiplicatorMob": 1.0,
 	"AlexAttack": 5.0,
@@ -102,6 +110,7 @@
 	"LavaGolemAttack": 14.0,
 	"LordofDarknessAttack": 7.0,
 	"LostSkeletonAttack": 5.0,
+	"MetalGolemAttack": 16.0,
 	"NetherWolfAttack": 6.0,
 	"PigmanAttack": 7.0,
 	"PillagerBossAttack": 12.0,
@@ -116,6 +125,12 @@
 	"WarriorAttack": 6.0,
 	"WitherBlazeAttack": 8.0,
 	"ZombieMageAttack": 7.0,
+	"KingCharlesAttack": 10.0,
+	"WilliamAttack": 8.0,
+	"AndriuAttack": 8.0,
+	"IslandKnightAttack": 6.0,
+	"DeathSpiritAttack": 5.0,
+	"BabyRavagerAttack": 10.0,
 	// Be carefull with this setting! Multiplicator must be > 0!
 	"DamageMultiplicatorMob": 1.0,
 	"AlexSpawnRate": 2,
@@ -160,5 +175,6 @@
 	"WarriorSpawnRate": 3,
 	"WildBoarSpawnRate": 5,
 	"WitherBlazeSpawnRate": 6,
-	"ZombieMageSpawnRate": 5
+	"ZombieMageSpawnRate": 5,
+	"SpawnCountBabyRavagerBlock": 12
 }

@@ -1,0 +1,6 @@
+{ 
+	// Whether block/item registration debug messages should be shown.
+	"showRegistrationDebug": false,
+	// Whether loot table injection debug messages should be shown.
+	"showLootTableDebug": false
+}
