@@ -60,7 +60,7 @@
 		// Declares the appearance of recipe's border.
 		"recipeBorder": "DEFAULT",
 		// Declares whether REI should append mod names to item stacks.
-		"appendModNames": true,
+		"appendModNames": false,
 		// Declares how the scrollbar in villager screen should act.
 		"villagerScreenPermanentScrollBar": false,
 		// Declares whether entry list widget is scrolled.
@@ -75,7 +75,7 @@
 		"searchFavorites": true,
 		"entrySize": 1.0,
 		"useCompactTabs": true,
-		"lowerConfigButton": false
+		"lowerConfigButton": true
 	},
 	"modules": { 
 		// Declares whether the craftable filter button is enabled.
@@ -84,7 +84,7 @@
 		// Declares whether the utils buttons are shown.
 		"showUtilsButtons": false,
 		// Declares whether REI should remove the recipe book.
-		"disableRecipeBook": false,
+		"disableRecipeBook": true,
 		// Declares whether REI should fix closing container with tab.
 		"fixTabCloseContainer": false
 	},

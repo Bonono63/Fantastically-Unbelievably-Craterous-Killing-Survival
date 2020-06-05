@@ -1,0 +1,10 @@
+{
+  "storedLines": 1000,
+  "visibleLines": 100,
+  "stackSame": false,
+  "linesUpDown": true,
+  "clearChat": true,
+  "showTime": false,
+  "timeFormat": "hh:mm",
+  "replaceFormat": "\u00267[%TIME%] "
+}
